@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///C:/TG/songs/Chashni%20-%20Bharat.mp3</location>
+			<title>Chashni (Pagalworld.live)</title>
+			<creator>Abhijeet Srivastava (Pagalworld.live)</creator>
+			<album>Bharat (Pagalworld.live)</album>
+			<trackNum>1</trackNum>
+			<annotation>Encoded By Pagalworld.io</annotation>
+			<image>file:///C:/Users/tarun.goyal1/AppData/Roaming/vlc/art/artistalbum/Abhijeet%20Srivastava%20%28Pagalworld.live%29/Bharat%20%28Pagalworld.live%29/art</image>
+			<duration>266061</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/TG/songs/Koka%20-%20Khandaani%20Shafakhana.mp3</location>
+			<title>Koka (Pagalworld.Live)</title>
+			<creator>Jasbir Jassi, Badshah ,Dhvani Bhanushali (Pagalworld.Live)</creator>
+			<album>Khandaani Shafakhana (Pagalworld.Live)</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/tarun.goyal1/AppData/Roaming/vlc/art/artistalbum/Jasbir%20Jassi%2C%20Badshah%20%2CDhvani%20Bhanushali%20%28Pagalworld.Live%29/Khandaani%20Shafakhana%20%28Pagalworld.Live%29/art</image>
+			<duration>176139</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/TG/songs/Coca%20Cola%20Tu%20-%20Tony%20Kakkar%20320Kbps.mp3</location>
+			<title>Coca Cola Tu - PagalWorld.info</title>
+			<creator>Tony Kakkar , Young Desi - PagalWorld.info</creator>
+			<album>Coca Cola Tu - PagalWorld.info</album>
+			<trackNum>1</trackNum>
+			<annotation>PagalWorld.info</annotation>
+			<image>file:///C:/Users/tarun.goyal1/AppData/Roaming/vlc/art/artistalbum/Tony%20Kakkar%20%2C%20Young%20Desi%20-%20PagalWorld.info/Coca%20Cola%20Tu%20-%20PagalWorld.info/art.jpg</image>
+			<duration>192055</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/TG/songs/Pachtaoge%20-%20Arijit%20Singh.mp3</location>
+			<title>Pachtaoge (Pagalworld.Link)</title>
+			<creator>Jaani  , Arijit Singh (Pagalworld.Link)</creator>
+			<album>Jaani Ve (Pagalworld.Link)</album>
+			<trackNum>1</trackNum>
+			<annotation>Exclusive Released By Pagalworld.Link</annotation>
+			<image>file:///C:/Users/tarun.goyal1/AppData/Roaming/vlc/art/artistalbum/Jaani%20%20%2C%20Arijit%20Singh%20%28Pagalworld.Link%29/Jaani%20Ve%20%28Pagalworld.Link%29/art.jpg</image>
+			<duration>226850</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/TG/songs/Slow%20Motion%20-%20Bharat.mp3</location>
+			<title>Slow Motion (Pagalworld.io)</title>
+			<creator>Shreya Ghoshal, Nakash Aziz (Pagalworld.io)</creator>
+			<album>Bharat (Pagalworld.io)</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/Users/tarun.goyal1/AppData/Roaming/vlc/art/artistalbum/Shreya%20Ghoshal%2C%20Nakash%20Aziz%20%28Pagalworld.io%29/Bharat%20%28Pagalworld.io%29/art</image>
+			<duration>247304</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/TG/songs/02%20-%20Pal%20Pal%20Dil%20Ke%20Paas%20%28Title%29%20-%20PPDKP%20%282019%29.mp3</location>
+			<title>Pal Pal Dil Ke Paas (Title) - PagalSongs.Com</title>
+			<creator>Arijit Singh, Parampara Thakur</creator>
+			<album>Pal Pal Dil Ke Paas (2019)</album>
+			<trackNum>2</trackNum>
+			<annotation>PagalSongs.Com</annotation>
+			<image>file:///C:/Users/tarun.goyal1/AppData/Roaming/vlc/art/artistalbum/Arijit%20Singh%2C%20Parampara%20Thakur/Pal%20Pal%20Dil%20Ke%20Paas%20%282019%29/art.jpg</image>
+			<duration>255584</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/TG/songs/Psycho%20Saiyaan%20-%20Saaho%20-%20Hindi.mp3</location>
+			<title>Psycho Saiyaan (Pagalworld.Live)</title>
+			<creator>Sachet Tandon, Dhvani Bhanushali (Pagalworld.Live)</creator>
+			<album>Saaho Hindi (Pagalworld.Live)</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/Users/tarun.goyal1/AppData/Roaming/vlc/art/artistalbum/Sachet%20Tandon%2C%20Dhvani%20Bhanushali%20%28Pagalworld.Live%29/Saaho%20Hindi%20%28Pagalworld.Live%29/art</image>
+			<duration>166533</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/TG/songs/06%20-%20Teri%20Meri%20Kahani%20-%20HHAH%20%282019%29.mp3</location>
+			<title>Teri Meri Kahani - PagalSongs.com</title>
+			<creator>Himesh Reshammiya, Ranu Mondal</creator>
+			<album>Happy Hardy And Heer (2019)</album>
+			<trackNum>6</trackNum>
+			<annotation>PagalSongs.com</annotation>
+			<image>file:///C:/Users/tarun.goyal1/AppData/Roaming/vlc/art/artistalbum/Himesh%20Reshammiya%2C%20Ranu%20Mondal/Happy%20Hardy%20And%20Heer%20%282019%29/art.jpg</image>
+			<duration>282280</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/TG/songs/Tera%20Ghata%20-%20Gajendra%20Verma.mp3</location>
+			<title>Tera Ghata - PagalWorld.co</title>
+			<creator>Gajendra Verma - PagalWorld.co</creator>
+			<album>Tera Ghata - PagalWorld.co</album>
+			<trackNum>1</trackNum>
+			<image>file:///C:/Users/tarun.goyal1/AppData/Roaming/vlc/art/artistalbum/Gajendra%20Verma%20-%20PagalWorld.co/Tera%20Ghata%20-%20PagalWorld.co/art</image>
+			<duration>254331</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/TG/songs/Wakhra%20Swag%20-%20Navv%20Inder%20%28feat.%20Badshah%29%20320Kbps.mp3</location>
+			<title>Wakhra Swag (feat. Badshah) | PagalWorld.Com</title>
+			<creator>Navv Inder | PagalWorld.Com</creator>
+			<album>Wakhra Swag (feat. Badshah) | PagalWorld.Com</album>
+			<trackNum>1</trackNum>
+			<annotation>PagalWorld.Com</annotation>
+			<image>file:///C:/Users/tarun.goyal1/AppData/Roaming/vlc/art/artistalbum/Navv%20Inder%20_%20PagalWorld.Com/Wakhra%20Swag%20%28feat.%20Badshah%29%20_%20PagalWorld.Com/art.jpg</image>
+			<duration>190566</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/TG/songs/Ishq%20Mitha.mp3</location>
+			<title>Ishq Mitha - Pagalworld.io</title>
+			<creator>Navraj Hans, Harshdeep Kaur</creator>
+			<album>Ek Ladki Ko Dekha Toh Aisa Laga</album>
+			<image>file:///C:/Users/tarun.goyal1/AppData/Roaming/vlc/art/artistalbum/Navraj%20Hans%2C%20Harshdeep%20Kaur/Ek%20Ladki%20Ko%20Dekha%20Toh%20Aisa%20Laga/art.jpg</image>
+			<duration>220035</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/TG/songs/Ek%20Ladki%20Ko%20Dekha%20Toh%20Aisa%20Laga.mp3</location>
+			<title>Ek Ladki Ko Dekha Toh Aisa Laga Title Song - Pagalworld.io</title>
+			<creator>Darshan Raval - Pagalworld.io</creator>
+			<album>Ek Ladki Ko Dekha Toh Aisa Laga - Pagalworld.io</album>
+			<annotation>0</annotation>
+			<image>file:///C:/Users/tarun.goyal1/AppData/Roaming/vlc/art/artistalbum/Darshan%20Raval%20-%20Pagalworld.io/Ek%20Ladki%20Ko%20Dekha%20Toh%20Aisa%20Laga%20-%20Pagalworld.io/art</image>
+			<duration>155222</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///C:/TG/songs/O%20Saki%20Saki%20-%20Batla%20House.mp3</location>
+			<title>O Saki Saki (Pagalworld.Live)</title>
+			<creator>Neha Kakkar,Tulsi Kumar, B Praak (Pagalworld.Live)</creator>
+			<album>Batla House (Pagalworld.Live)</album>
+			<trackNum>1</trackNum>
+			<annotation>0</annotation>
+			<image>file:///C:/Users/tarun.goyal1/AppData/Roaming/vlc/art/artistalbum/Neha%20Kakkar%2CTulsi%20Kumar%2C%20B%20Praak%20%28Pagalworld.Live%29/Batla%20House%20%28Pagalworld.Live%29/art</image>
+			<duration>191167</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+	</extension>
+</playlist>
